@@ -2,7 +2,7 @@
 Code refactor of the Horiseon website
 
 ## Description
-[Link to Application](https://willmowlam.github.io/horiseon-code-refactor/)
+[Deployed Application](https://willmowlam.github.io/horiseon-code-refactor/)
 
 This repo is for the development of the Horiseon website template so it follows accessibility standards and is optimized for search engines.
 

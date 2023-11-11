@@ -79,14 +79,13 @@ p {
 }
 
 /* Main content layout */
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* ASide Benefits */
+/* Side column Benefit content*/
 
 .benefits {
     margin-right: 20px;

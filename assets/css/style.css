@@ -134,7 +134,7 @@ aside.benefits {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,7 +161,7 @@ aside.benefits {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -173,7 +173,7 @@ aside.benefits {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

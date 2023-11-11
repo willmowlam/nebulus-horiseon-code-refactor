@@ -2,7 +2,7 @@
 Code refactor of the Horiseon website
 
 ## Description
-[Link to Application](https://your-application-link.com)
+[Link to Application](https://willmowlam.github.io/horiseon-code-refactor/)
 
 This repo is for the development of the Horiseon website template in order to improve accessibility.
 
@@ -10,14 +10,12 @@ This repo is for the development of the Horiseon website template in order to im
 [screenshot]
 
 ## To Do
-- Publish to github.io
-- Add link to published site in this readme
 - Add screenshot to this readme
 
 ## Authors and acknowledgment
-[![GitHub](https://img.shields.io/badge/willmowlam-blueviolet)](https://github.com/willmowlam)
+[![GitHub](https://img.shields.io/badge/willmowlam-blueviolet)](https://github.com/willmowlam) for accessibility refactoring work.
 
-Will Mowlam (willmowlam) for accessability refactoring work.
+[Favicon.io](https://favicon.io/) for the favicon.
 
 ## License
 Copyright (c) Horiseon Social Solution Services, Inc. All rights reserved.

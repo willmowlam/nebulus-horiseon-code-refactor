@@ -12,7 +12,9 @@ This repo is for the development of the Horiseon website template so it follows 
 ## Authors and acknowledgment
 [![GitHub](https://img.shields.io/badge/willmowlam-blueviolet)](https://github.com/willmowlam) for accessibility refactoring work.
 
-[Favicon.io](https://favicon.io/) for the favicon.
+[Favicon.io](https://favicon.io/) for the favicons.
+
+[Compressor.io](https://compressor.io/) for image compression.
 
 ## License
 Copyright (c) Horiseon Social Solution Services, Inc. All rights reserved.
